@@ -5,7 +5,7 @@ Essa ferramenta faz a busca ativa por novas vítimias postadas na ferramenta dar
 Ao detectar uma nova entrada é enviado ao webhook do discord uma mensagem contendo o nome do grupo, a vitima e a data.
 
 
-Fico feliz se conseguir contribuir para um projeto de alguém 
+Fico feliz se esse código contribuir para o projeto de alguém.
 
 
 Use o task schedule do windows ou cron para deixar automática a execução do script.
@@ -30,10 +30,11 @@ This tool actively searches for new victims posted on the darkfeed.io tool, crea
 Upon detecting a new entry, a message is sent to the discord webhook containing the name of the group, the victim and the date.
 
 
-I'm glad if I can contribute to someone's project
+I'm glad if this code can contribute to someone's project
 
 
-Use o task schedule do windows ou cron para deixar automática a execução do script.
+
+Use the windows task schedule or cron to make the script run automatically.
 
 ![image](https://user-images.githubusercontent.com/58004682/150245369-3dcd235f-28ca-47b3-a06d-05a4425d0036.png)
 
