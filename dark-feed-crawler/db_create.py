@@ -24,9 +24,10 @@ def create_table(conn, create_table_sql):
 def main():
     database = r"base.db"
 
-    sql_create_projects_table = """ CREATE TABLE IF NOT EXISTS group site (
+    sql_create_projects_table = """ CREATE TABLE IF NOT EXISTS projects (
                                             name_group text NOT NULL,
-                                            link text
+                                            date text,
+                                            victim text
                                         ); """
 
     conn = create_connection(database)
