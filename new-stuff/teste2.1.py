@@ -16,14 +16,15 @@ try:
     for x in lista:
         url = aux[x]
         try:
-            response = requests.get(url["site"], headers=headers)
+            site = url["site"]
+            response = requests.get(site, headers=headers)
             if SevErro not in response.text:
                 tamanho = (len(response.content))
                 print(x)
-                print(url["site"])
+                print(site)
                 print("--------")
                 driver = webdriver.Firefox()
-                driver.get(url["site"])
+                driver.get(site)
                 sleep(10)
                 el = driver.find_element_by_tag_name('body')
                 el.screenshot(str(x) + ".png")

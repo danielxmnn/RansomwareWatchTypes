@@ -1,4 +1,5 @@
 lista = {
+    ""
     "AlphVM": {"site": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion.ly", "conteudo": ""},
     "Arvin Leaks": {"site": "http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion.ly", "conteudo": ""},
     "Atomsilo": {"site": "http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion.ly/list.html",
@@ -19,7 +20,7 @@ lista = {
     "Dopple Leaks": {"site": "http://hpoo4dosa3x4ognfxpqcrjwnsigvslm7kv6hvmhh2yqczaxy3j6qnwad.onion.ly",
                      "conteudo": ""},
     "eCh0raix": {"site": "http://veqlxhq7ub5qze3qy56zx2cig2e6tzsgxdspkubwbayqije6oatma6id.onion.ly", "conteudo": ""},
-    "Entropy hall of fall": {"site": "http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion.ly",
+    "Entropy hall of fall": {"site": "http://leaksv7sroztl377bbohzl42i3ddlfsxopcb6355zc7olzigedm5agad.onion.ly/posts",
                              "conteudo": ""},
     "Everest": {"site": "https://ransomocmou6mnbquqz44ewosbkjk3o5qjsl3orawojexfook2j7esad.onion.ly", "conteudo": ""},
     "Grief": {"site": "http://griefcameifmv4hfr3auozmovz5yi6m3h3dwbuqw7baomfxoxz4qteid.onion.ly", "conteudo": ""},

@@ -12,14 +12,22 @@ try:
     for x in lista:
         url = aux[x]
         try:
-            response = requests.get(url["site"], headers=headers)
+            site = url["site"]
+            response = requests.get(site, headers=headers)
+            if SevErro in response.text:
+                reserva1 = site.replace("onion.ly", "onion.ws")
+                response = requests.get(reserva1, headers=headers)
             if SevErro not in response.text:
-
                 tamanho = (len(response.content))
                 print(x)
-                print(url["site"])
+                print(site)
                 print(tamanho)
                 print("--------")
+            else:
+                print("---ERROR---")
+                print(x)
+                print(site)
+                print("---ERROR---")
         except Exception as e:
             print("Error: ")
             print(e)
