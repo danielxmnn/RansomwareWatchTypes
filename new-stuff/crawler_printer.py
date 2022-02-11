@@ -3,7 +3,7 @@ import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import index
-import diferenca
+
 
 aux = index.lista
 lista = list(aux.keys())
