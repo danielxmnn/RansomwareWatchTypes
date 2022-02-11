@@ -15,7 +15,7 @@ def _screenshot(a):
     driver = webdriver.Firefox()
     driver.get(a)
     sleep(15)
-    el = driver.find_element(By.NAME, 'body')
+    el = driver.find_element(By.TAG_NAME, 'body')
     el.screenshot("img/" + str(x) + ".png")
     driver.close()
     driver.quit()
