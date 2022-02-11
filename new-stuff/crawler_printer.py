@@ -3,6 +3,7 @@ import requests
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 import index
+import diferenca
 
 aux = index.lista
 lista = list(aux.keys())
@@ -15,7 +16,7 @@ def _screenshot(a):
     driver.get(a)
     sleep(15)
     el = driver.find_element(By.NAME, 'body')
-    el.screenshot(str(x) + ".png")
+    el.screenshot("img/" + str(x) + ".png")
     driver.close()
     driver.quit()
     return
