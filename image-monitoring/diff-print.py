@@ -6,8 +6,6 @@ import diferenca
 
 aux = index.lista
 lista = list(aux.keys())
-SevErro = "Error accessing resource: "
-SevErro2 = "Onion.ws is a "
 
 
 def _screenshot(a):
