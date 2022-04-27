@@ -18,3 +18,5 @@ Links :
   https://darkfeed.io/indexransomware/ 
   
   https://github.com/captainGeech42/ransomwatch
+
+  https://github.com/soufianetahiri/RansomwareMonitor
