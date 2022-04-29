@@ -15,7 +15,7 @@ Links :
 
   https://platform.darktracer.com/     
   
-  https://darkfeed.io/indexransomware/ 
+  h̶t̶t̶p̶s̶:̶/̶/̶d̶a̶r̶k̶f̶e̶e̶d̶.̶i̶o̶/̶i̶n̶d̶e̶x̶r̶a̶n̶s̶o̶m̶w̶a̶r̶e̶/̶
   
   https://github.com/captainGeech42/ransomwatch
 
