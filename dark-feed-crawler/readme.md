@@ -1,3 +1,38 @@
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+       Descontinuado 
+       
+⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️⚠️
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ___PT-BR___
 
 Essa ferramenta faz a busca ativa por novas vítimias postadas na ferramenta darkfeed.io, criando um banco de dados e fazendo a atualização caso haja uma nova vítima. 
