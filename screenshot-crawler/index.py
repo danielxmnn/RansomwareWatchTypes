@@ -1,7 +1,7 @@
 lista = {
     ""
     "AlphVM": {"site": "http://alphvmmm27o3abo3r2mlmjrpdmzle3rykajqc5xsj7j7ejksbpsa36ad.onion.ws", "conteudo": ""},
-    "Arvin Leaks": {"site": "http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion.ws", "conteudo": ""},
+    "ArvinLeaks": {"site": "http://3kp6j22pz3zkv76yutctosa6djpj4yib2icvdqxucdaxxedumhqicpad.onion.ws", "conteudo": ""},
     "Atomsilo": {"site": "http://l5cjga2ksw6rxumu5l4xxn3cmahhi2irkbwg3amx6ajroyfmfgpfllid.onion.ws/list.html",
                  "conteudo": ""},
     "AvosLocker": {"site": "http://avosqxh72b5ia23dl5fgwcpndkctuzqvh2iefk5imp3pi5gfhel5klad.onion.ws", "conteudo": ""},
