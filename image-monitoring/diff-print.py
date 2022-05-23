@@ -3,6 +3,7 @@ import index
 import diferenca
 import requests
 
+
 aux = index.lista
 lista = list(aux.keys())
 hti = Html2Image(custom_flags=['--virtual-time-budget=15000', '--hide-scrollbars'])
