@@ -3,7 +3,6 @@ import requests
 import webbrowser
 import pyautogui
 import time
-import diferenca
 
 aux = index.lista
 lista = list(aux.keys())
@@ -32,15 +31,10 @@ try:
                 time.sleep(8)
                 pyautogui.press('F11')
                 time.sleep(8)
-                pyautogui.screenshot(r'.\/img\/' + x + '_novo.png')
+                pyautogui.screenshot(r'.\/img\/' + x + '_base.png')
                 time.sleep(3)
                 pyautogui.hotkey('ctrl', 'w')
                 pyautogui.hotkey('ctrl', 'w')
-                time.sleep(3)
-                dif = diferenca.diff(r'.\/img\/' + x + '_novo.png', r'.\/img\/' + x + '_base.png', True)
-                if dif >= 0.0001:
-                    print(dif)
-                    print("diferente")
 
         except Exception as e:
             print("Error1: ")
